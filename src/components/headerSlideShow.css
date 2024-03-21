@@ -1,0 +1,89 @@
+/* .headSlideImg img{
+    width: 373px;
+    border-radius: 12px;
+} */
+
+.headSlideItem{
+    background-image: url(headslidechair.png);
+    width: 373px;
+    height: 373px;
+    border-radius: 12px;
+
+
+}
+.headSlideItem2{
+    background-image: url(girlheader.png);
+    width: 373px;
+    height: 373px;
+    border-radius: 12px;
+}
+
+.headSlideItem3{
+    background-image: url(boy.png);
+    width: 373px;
+    height: 373px;
+    border-radius: 12px;
+}
+
+.headSlideItem4{
+    background-image: url(car.png);
+    width: 373px;
+    height: 373px;
+    border-radius: 12px;
+}
+
+.headSlideItem5{
+    background-image: url(people.png);
+    width: 373px;
+    height: 373px;
+    border-radius: 12px;
+}
+
+.icons{
+    padding: 20px;
+    text-align: right;
+}
+
+.icons a{
+    cursor: pointer;
+}
+
+.headSlideItem h4{
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #81ADC8;
+    padding: 20px;
+}
+
+.headSlideItem2 h4{
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #81ADC8;
+    padding: 20px;
+}
+
+.headSlideItem3 h4{
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #81ADC8;
+    padding: 20px;
+}
+
+.headSlideItem4 h4{
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #81ADC8;
+    padding: 20px;
+}
+
+.headSlideItem5 h4{
+    margin-top: 200px;
+    font-size: 36px;
+    font-weight: 700;
+    color: #81ADC8;
+    padding: 20px;
+}

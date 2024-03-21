@@ -1,0 +1,48 @@
+
+.memberContianeer{
+    background-image: url(Featuresbg.png);
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.memberitem{
+    width: 1160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.memberheading h3{
+    padding-top: 220px;
+    font-size: 59px;
+    font-weight: 700;
+    font-family: Montserrat Alternates;
+}
+
+.memberheading p{
+    font-family:Montserrat Alternates;
+    font-size: 22px;
+    font-weight: 500;
+    color: #4D4D4D;
+}
+
+.memberCards{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px auto;
+}
+
+.cards h4{
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.cards p{
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    width: 300px;
+}
+

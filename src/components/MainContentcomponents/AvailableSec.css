@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.availableContianeer{
+    background-image: url(CTAbg.png);
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.availableItem{
+    width: 1160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.availableHaeading h5{
+    font-size: 59px;
+     font-weight: 700;
+     font-family: Montserrat Alternates;
+     padding-top: 200px;
+     width: 500px;
+     margin: 0 auto;
+ }
+ 
+ .availableHaeading p{
+     font-family:Montserrat Alternates;
+     font-size: 22px;
+     font-weight: 500;
+     color: #4D4D4D;
+  }
+
+  .avaBtn{
+    margin-top: 230px;
+    padding-bottom: 50px;
+  }
+
+  .avaBtn p{
+    font-family:Montserrat Alternates;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4D4D4D;
+  }
+
+
+  .avaLinks a{
+    color: #000;
+    padding: 20px;
+}

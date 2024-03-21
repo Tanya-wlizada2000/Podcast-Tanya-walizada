@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ourSponsorContianeer{
+    background-image: url(Pricingbg.png);
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.sponsorItem{
+    width: 1160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.sponsorHeading h4{
+    font-size: 59px;
+     font-weight: 700;
+     font-family: Montserrat Alternates;
+     padding-top: 200px;
+ }
+ 
+ .sponsorHeading p{
+     font-family:Montserrat Alternates;
+     font-size: 22px;
+     font-weight: 500;
+     color: #4D4D4D;
+  }
+
+  .sponsorCards{
+    margin: 80px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .cardsItem{
+    width: 373px;
+    text-align: left;
+    border: 1.5px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+  }
+
+  .cardText{
+    margin-bottom: 50px;
+  }
+
+  .cardText h5{
+    font-family: Montserrat Alternates;
+    font-size: 36px;
+    font-weight: 700;
+  }
+
+  .cardText p{
+    font-family: Montserrat Alternates;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4D4D4D;
+    width: 300px;
+  }
+
+  .btn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .price h6{
+    color: #CD4631;
+    font-family: Montserrat Alternates;
+    font-size: 16px;
+    font-weight: 700;
+
+  }
+
+  .price p{
+    color: #4D4D4D;
+    font-family: Montserrat Alternates;
+    font-size: 14px;
+    font-weight: 700;
+
+  }
+   
+  .cardslist{
+    height: 205px;
+  }
+
+  .cardslist p{
+    margin-bottom: 20px;
+    font-family: Montserrat Alternates;
+    font-weight: 700;
+    font-size: 14px;
+    color: #4D4D4D;
+    
+  }
+
+ .cardslist ul{
+    font-family: Montserrat Alternates;
+    font-weight: 500;
+    font-size: 16px; 
+    line-height:25px;
+    padding: 40px 0 auto 40px ;
+    list-style: none;
+ }

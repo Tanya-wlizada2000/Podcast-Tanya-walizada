@@ -1,0 +1,93 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.articleContianeer{
+    background-image: url(Blogbg.png);
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.articleItem{
+    width: 1160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.articleHeading h4{
+    font-size: 59px;
+     font-weight: 700;
+     font-family: Montserrat Alternates;
+     padding-top: 200px;
+ }
+ 
+ .articleHeading p{
+     font-family:Montserrat Alternates;
+     font-size: 22px;
+     font-weight: 500;
+     color: #4D4D4D;
+  }
+
+  .articleCards{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 200px auto;
+  }
+
+  .artCardsItem{
+    width: 470px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    padding: 10px;
+   
+  }
+
+  .artCardsItem:hover{
+    box-shadow: 10px 10px 0 #000;
+  }
+
+  .artCardImg img{
+     width: 438px;
+   
+  }
+
+  .artCardText{
+    text-align: left;
+  }
+
+  .artCardText span{
+    font-family: Montserrat Alternates;
+    font-size: 14px;
+    font-weight: 700;
+    color: #4D4D4D;
+    padding-top: 20px;
+  }
+
+  .artCardText h5{
+    font-family: Montserrat Alternates;
+    font-size: 36px;
+    font-weight: 700;
+    color: #CD4631;
+  }
+
+  .artCardText p{
+    font-family: Montserrat Alternates;
+    font-size: 14px;
+    font-weight: 500;
+    color: #4D4D4D;
+    padding-bottom: 10px;
+  }
+  .artCardBtn{
+    text-align: left;
+    padding-top: 20px;
+    border-top: 1px solid #4D4D4D;
+  }
+
+  .artCardBtn button{
+    Padding: 6px 12px 6px 12px;
+    border: 1px solid #4D4D4D;
+    border-radius: 4px;
+    background-color: #fff ;
+  }

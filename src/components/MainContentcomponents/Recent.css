@@ -1,0 +1,87 @@
+
+.recentContianeer{
+    background-color:#F7EDE8;
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+
+.recentItem{
+    width: 1160px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recentHeading h4{
+   font-size: 59px;
+    font-weight: 700;
+    font-family: Montserrat Alternates;
+    padding-top: 200px;
+}
+
+.recentHeading p{
+    font-family:Montserrat Alternates;
+    font-size: 22px;
+    font-weight: 500;
+    color: #4D4D4D;
+ }
+
+
+ .recetCards{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px auto;
+ }
+
+ .recentCardsItem{
+    width: 570px;
+    border: 2px solid #000;
+    border-radius: 12px;
+    margin-top: -60px;
+    padding: 10px;
+    background-color: #fff;
+ }
+
+ .recentCardsItem:hover{
+    box-shadow: 10px 10px 0px #81ADC8;
+ }
+
+ .cardsText{
+    margin-top: 20px;
+ }
+
+ .cardsText h5{
+    color:  #CD4631;
+    font-family: Montserrat Alternates;
+    font-size: 16px;
+    font-weight: 700;
+ }
+
+ .cardsText p{
+    color: #4D4D4D;
+    font-family: Montserrat Alternates;
+    font-size: 14px;
+    border-top: 1px solid #4D4D4D;
+    margin-top: 10px;
+ }
+
+ .cardsimageBtn{
+    display: flex;
+    text-align: left; 
+    gap: 20px;
+ }
+
+ .cardsBtn{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+ .cardsBtn button{
+    Padding: 6px 12px 6px 12px;
+    border: 1px solid #4D4D4D;
+    border-radius: 4px;
+    background-color: #fff ;
+ }
+
